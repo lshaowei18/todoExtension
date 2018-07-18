@@ -1,0 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
+
+body {
+  font-family: "Open Sans", serif;
+  background-color: #ccc;
+  min-width: 250px;
+  min-height: 150px;
+}
